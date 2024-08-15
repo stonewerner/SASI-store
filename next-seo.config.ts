@@ -1,11 +1,11 @@
 const description =
-  "Launch your own fully automated store with Snipcart, Printful, and Next.js";
-const title = "Your SWAG store";
-const url = "https://swag.nextdropshippingstarter.com";
+  "Full catalog of SASI merchandise.";
+const title = "SASI store";
+const url = "https://store.stonewerner.com";
 
 const seo = {
   title,
-  titleTemplate: "%s | Headless Dropshipping Starter",
+  titleTemplate: "%s | SASI Store",
   description,
   openGraph: {
     description,
@@ -13,9 +13,9 @@ const seo = {
     type: "website",
     url,
   },
-  twitter: {
-    handle: "@notrab",
-    site: "@notrab",
+  instagram: {
+    handle: "@sasi.llc",
+    site: "@sasi.llc",
   },
 };
 
